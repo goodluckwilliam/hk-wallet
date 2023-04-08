@@ -1,5 +1,5 @@
 #HBO MAX自用规则
 
 DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-KEYWORD,hbomax
 USER-AGENT,HBOMAX*

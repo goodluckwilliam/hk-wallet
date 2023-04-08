@@ -1,0 +1,8 @@
+#HBO MAX自用规则
+
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,manifest.prod.boltdns.net
+DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,youboranqs01.com
+USER-AGENT,HBOMAX*

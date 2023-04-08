@@ -1,5 +1,6 @@
-#HBO MAX自用规则
+#HBO MAX规则
 
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-KEYWORD,hbomax
-USER-AGENT,HBOMAX*
+
+#Github goodluckwilliam自用资源
